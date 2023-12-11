@@ -1,6 +1,6 @@
 'use client'
 
-import { experimental_useFormState as useFormState, experimental_useFormStatus as useFormStatus } from 'react-dom'
+import { useFormState, useFormStatus } from 'react-dom'
 
 import { action } from '@/app/form/action'
 
